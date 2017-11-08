@@ -2,7 +2,7 @@ fork from [react-native-indicator](https://github.com/wangdicoder/react-native-i
 this will continuous update,for supporting react 16
 
 
-# react-native-indicator
+# react-native-extend-indicator
 
 [![npm](https://img.shields.io/npm/dt/express.svg)](https://www.npmjs.com/package/react-native-indicator) ![react-native](https://img.shields.io/badge/react--native-0.38-brightgreen.svg) [![VersionEye](https://img.shields.io/versioneye/d/ruby/rails.svg)](https://github.com/wangdicoder/react-native-indicator) [![npm](https://img.shields.io/npm/l/express.svg)](https://www.npmjs.com/package/react-native-indicator)
 
