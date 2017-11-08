@@ -17,7 +17,7 @@ A useful indicator component for React Native
 
 Make sure that you are in your React Native project directory and run:
 ```
-$ npm install react-native-indicator --save 
+$ npm install react-native-extend-indicator --save 
 ```
 
 ### Android
