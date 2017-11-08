@@ -8,10 +8,10 @@ this will continuous update,for supporting react 16
 
 A useful indicator component for React Native
 
-<img src="/screenshot/ss1.gif" width="372" height="666" />
-<img src="/screenshot/ss2.gif" width="372" height="666" />
-<img src="/screenshot/ss3.gif" width="372" height="666" />
-<img src="/screenshot/ss4.gif" width="372" height="666" />
+<img src="./screenshot/ss1.gif" width="372" height="666" />
+<img src="./screenshot/ss2.gif" width="372" height="666" />
+<img src="./screenshot/ss3.gif" width="372" height="666" />
+<img src="./screenshot/ss4.gif" width="372" height="666" />
 
 ## Installation
 
